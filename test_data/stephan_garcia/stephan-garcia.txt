@@ -1,0 +1,89 @@
+Page 1 of 2
+PATIENT:Garcia, Stephan - 04/03/1957 Generated on 2017-07-21 - OpenEMR Clinic 000-000-0000
+OpenEMR Clinic
+000-000-0000
+Stephan Garcia
+Generated on: 2017-07-21
+Patient Data:
+Who Name: Mr. Stephan Garcia External ID: EX1234567
+DOB: 1957-04-03
+Sex: Male
+History Data:
+General Risk Factors:
+Hypertension
+Exams/Tests:
+Lifestyle Tobacco:
+50 pack years, but only smoking a few cigarettes a day for past year.
+Coffee:
+Alcohol:
+Moderate alcohol, several hard liquor drinks weekly, does not drink to excess.
+Recreational Drugs:
+Counseling:
+Exercise Patterns:
+Exercise history: minimal in the last 5 years.
+Hazardous Activities:
+Additional History: Family history of prostate cancer and melanoma.
+Other
+Insurance Data:
+Primary Insurance Data:
+Subscriber Date of Birth:
+0000-00-00
+Secondary Insurance Data:
+Subscriber Date of Birth:
+0000-00-00
+Tertiary Insurance Data:
+Subscriber Date of Birth:
+0000-00-00
+Billing Information:
+Patient Immunization:
+Patient Notes:
+2017-07-19: PAST MEDICAL HISTORY: The patient is a 59-year-old Hispanic male who has not been seen by his
+previous PCP in 6 months. He is known to have a history of COPD and labile hypertension. He has a previous history
+http://some.open-emr.org/interface/patient_file/report/custom_report.php?p... 7/21/2017
+emr-
+Page 2 of 2
+of pneumonia requiring hospitalization 3 years ago. He has developed a steady productive cough in the last 3 years, of
+about one-half cup of sputum every day. He has noticed a few flecks of blood occasionally but no hemoptysis this past
+year. His exercise tolerance has decreased significantly in the last 5 years so he has not exercised in the last year, but he
+is not short of breath at rest. SOCIAL HISTORY: Moderate alcohol, several hard liquor drinks weekly, does not drink
+to excess. Smoking history: 50 pack years, but only smoking a few cigarettes a day for past year. Family history of
+prostate cancer and melanoma. Exercise history: minimal in the last 5 years. PHYSICAL EXAMINATION: VITAL
+SIGNS: Weight 190, height 6 feet 1 inch, blood pressure 128/67, heart rate 84. HEENT: PERRLA. EOM intact.
+Oropharynx is clear of lesions. NECK: Supple. No lymphadenopathy. No thyromegaly. LUNGS: Clear to auscultation
+and percussion bilateral, breath sounds diminished throughout. CARDIOVASCULAR: Regular rate and rhythm. No
+murmurs, rubs, or gallops. ABDOMEN: Not tender, not distended. Splenomegaly about 4 cm under the costal margin.
+No hepatomegaly. Bowel sounds present. MUSCULOSKELETAL: No cyanosis, no clubbing, no pitting edema.
+NEUROLOGIC: Nonfocal. No asterixis. No costovertebral tenderness. PSYCHE: The patient is oriented x4, alert and
+cooperative. ALLERGIES: Erythromycin. PAST SURGERIES: Appendectomy. Prostate biopsy. LABORATORY
+DATA: None available. ASSESSMENT AND PLAN: The patient is a 59-year-old with established diagnosis of COPD
+and a substantial smoking history. He has not had any recent chest xrays or pulmonary function testing. He will be sent
+for comprehensive baseline testing including CBC with differential, Chem 20 panel, urinalysis, chest xray, and
+pulmonary function tests. The patient and his wife were advised to contact the office once they have finished the
+prescribed testing for a follow up appointment. We also discussed nutrition and smoking issues.
+Patient Transactions:
+Patient Communication sent:
+Recurrent Appointments:
+None
+Issues
+Allergies:
+Erythromycin:
+New Patient Encounter
+(2017-07-19) Provider: Administrator Administrator
+Facility: OpenEMR Clinic
+Reason: Patient is new to the practice, having recently moved to the area from Florida, where his extended family
+remains.
+Vitals
+(2017-07-19)
+Blood Pressure:
+128/67
+Weight: 190.00 lb
+(86.18 kg)
+Height: 71.87 in
+(182.6 cm)
+Pulse: 84 per BMI: 26
+min
+kg/m^2
+BMI Status:
+Normal BL
+Signature:
+http://some.open-emr.org/interface/patient file/report/custom report.php?p... 7/21/2017

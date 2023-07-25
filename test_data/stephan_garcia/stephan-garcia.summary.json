@@ -1,0 +1,90 @@
+{
+ "Allergy": [
+  {
+   "code": "4053",
+   "cui": "C0014806",
+   "polarity": "negative",
+   "preferredText": "Erythromycin",
+   "range": [
+    3392,
+    3404
+   ],
+   "text": "Erythromycin",
+   "tui": "T195",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "4053",
+   "cui": "C0014806",
+   "polarity": "negative",
+   "preferredText": "Erythromycin",
+   "range": [
+    3392,
+    3404
+   ],
+   "text": "Erythromycin",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  }
+ ],
+ "DiseaseDisorder": [
+  {
+   "code": "13645005",
+   "cui": "C0024117",
+   "lstm_prob": 0.575,
+   "polarity": "positive",
+   "preferredText": "Chronic Obstructive Airway Disease",
+   "range": [
+    1129,
+    1133
+   ],
+   "text": "COPD",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "697930002",
+   "cui": "C0262534",
+   "lstm_prob": 0.636,
+   "polarity": "positive",
+   "preferredText": "White Coat Hypertension",
+   "range": [
+    1138,
+    1144
+   ],
+   "text": "labile",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "233604007",
+   "cui": "C0032285",
+   "lstm_prob": 0.954,
+   "polarity": "positive",
+   "preferredText": "Pneumonia",
+   "range": [
+    1306,
+    1315
+   ],
+   "text": "pneumonia",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  }
+ ],
+ "Lab": [
+  {
+   "code": "9300",
+   "cui": "C1305855",
+   "polarity": "positive",
+   "preferredText": "BODY MASS INDEX (PHYSICAL FINDING)",
+   "range": [
+    3741,
+    3744
+   ],
+   "text": "BMI",
+   "tui": "T034",
+   "vocab": "MEDCIN"
+  }
+ ],
+ "Medication": []
+}

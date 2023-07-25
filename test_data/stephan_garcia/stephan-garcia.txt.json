@@ -1,0 +1,118 @@
+{
+    "dob": [
+        [
+            "4/3/1957",
+            1
+        ]
+    ],
+    "dr_age": [],
+    "dr_city": [],
+    "dr_email": [],
+    "dr_fax": [],
+    "dr_first": [
+        [
+            "Stephan",
+            0.927
+        ],
+        [
+            "Administrator",
+            0.511
+        ],
+        [
+            "Administrator",
+            0.473
+        ]
+    ],
+    "dr_id": [
+        [
+            "EX1234567",
+            0.527
+        ]
+    ],
+    "dr_initials": [],
+    "dr_last": [
+        [
+            "Garcia",
+            0.895
+        ],
+        [
+            "Garcia",
+            0.445
+        ]
+    ],
+    "dr_middle": [],
+    "dr_org": [],
+    "dr_phone": [],
+    "dr_state": [],
+    "dr_street": [],
+    "dr_zip": [],
+    "facility_name": [
+        [
+            "OpenEMR",
+            0.99
+        ],
+        [
+            "Clinic",
+            0.597
+        ],
+        [
+            "OpenEMR",
+            0.958
+        ],
+        [
+            "Clinic",
+            0.8
+        ],
+        [
+            "OpenEMR",
+            0.666
+        ]
+    ],
+    "insurance": [],
+    "mrn": [],
+    "pat_age": [
+        [
+            "59-year-old",
+            0.999
+        ],
+        [
+            "59-year-old",
+            0.996
+        ]
+    ],
+    "pat_city": [],
+    "pat_email": [],
+    "pat_first": [
+        [
+            "Stephan",
+            0.912
+        ],
+        [
+            "Stephan",
+            0.711
+        ]
+    ],
+    "pat_initials": [],
+    "pat_last": [
+        [
+            "Garcia",
+            0.862
+        ]
+    ],
+    "pat_middle": [],
+    "pat_phone": [
+        [
+            "000-000-0000",
+            0.989
+        ],
+        [
+            "000-000-0000",
+            0.918
+        ]
+    ],
+    "pat_state": [],
+    "pat_street": [],
+    "pat_zip": [],
+    "sex": [],
+    "ssn": []
+}

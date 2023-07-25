@@ -1,0 +1,70 @@
+Page 1 of 2
+PATIENT:Marmol, Tina - 12/05/1963 Generated on 2017-07-21 - OpenEMR Clinic 000-000-0000
+OpenEMR Clinic
+000-000-0000
+Tina Marmol
+Generated on: 2017-07-21
+Patient Data:
+Who Name: Mrs. Tina R. Marmol External ID: 553-82-1234
+DOB: 1963-12-05
+Sex: Female
+History Data:
+Insurance Data:
+Primary Insurance Data:
+Subscriber Date of Birth:
+0000-00-00
+Secondary Insurance Data:
+Subscriber Date of Birth:
+0000-00-00
+Tertiary Insurance Data:
+Subscriber Date of Birth:
+0000-00-00
+Billing Information:
+Patient Immunization:
+Patient Notes:
+2017-07-19: DIAGNOSIS AT ADMISSION: Congestive heart failure (CHF) with left pleural effusion. DIAGNOSES
+AT DISCHARGE 1. Congestive heart failure (CHF) with pleural effusion. 2. Hypertension. 3. Leukocytosis. 4. Anemia
+of chronic disease. 5. Breast cancer in remission HOSPITAL COURSE: The patient was admitted to the emergency
+room by Dr. X. She has diuresed with IV Lasix. She was placed on Prinivil, aspirin, oxybutynin, docusate, and Klor-
+Con. Chest x-rays were followed. She did have free flowing fluid in her left chest. Radiology consultation was obtained
+for thoracentesis. The patient was seen by Dr. Y. and an echocardiogram was done. This revealed an ejection fraction of
+60% with diastolic dysfunction and periaortic stenosis with an opening of 1 cubic cm. An adenosine sestamibi heart
+scan was done in March 2016, showing a small fixed apical defect, but no ischemia. Cardiac enzymes were negative.
+Dr. Y recommended a beta-blocker with an ACE inhibitor; therefore, the lisinopril was discontinued. Procedure:
+Thoracentesis: Needle aspiration removed 300 cc of clear straw colored fluid. Microscopic analysis showed no
+indication of an infectious process, the fluid was sent for culture. The patient felt much better after the thoracentesis.
+LABORATORY AT DISCHARGE: Sodium 134, potassium 4.2, chloride 99, CO2 26, glucose 182, BUN 17, and
+creatinine 1.0. Glucose was elevated because of several doses of Solu-Medrol given to her because of bronchospams.
+Magnesium was 1.8, calcium was 8.1. Liver enzymes were unremarkable. Cardiac enzymes were normal as mentioned.
+PT/INR is 1.02, PTT 31.3, white blood cell count 15, 000 with a left shift. This was presumed due to the corticosteroids.
+H&H was 32.3/11.3 and platelets 352,000, and MCV was 99. The patient's O2 saturations on room air were normal.
+http://some.open-emr.org/interface/patient_file/report/custom_report.php?p... 7/21/2017
+Page 2 of 2
+Vital signs were stable. DISCHARGE MEDICATIONS: She is being discharged home on Lasix 40 mg daily,
+potassium chloride 10 mEq daily, atenolol 25 mg daily, aspirin 5 grains daily, Ditropan 5 mg b.i.d., and Colace 100 mg
+b.i.d. FOLLOWUP: She will be followed in my office in 1 week. She is to notify if recurrent fever or chills or recurrent
+SOB. PROGNOSIS: Guarded.
+Patient Transactions:
+Patient Communication sent:
+Recurrent Appointments:
+None
+Issues
+Medications:
+Lasix 40 mg daily:
+potassium chloride 10 mEq daily:
+atenolol 25 mg daily:
+aspirin 5 grains daily:
+Ditropan 5 mg b.i.d.:
+Colace 100 mg b.i.d:
+New Patient Encounter
+(2017-07-19) Provider: Administrator Administrator
+Facility: OpenEMR Clinic
+Reason: The patient was admitted to the emergency room by Dr. X. She has diuresed with IV Lasix. She was placed on
+Prinivil, aspirin, oxybutynin, docusate, and Klor-Con. Chest x-rays were followed. She did have free flowing fluid in her
+left chest. Radiology consultation was obtained for thoracentesis. The patient was seen by Dr. Y. and an echocardiogram
+was done. This revealed an ejection fraction of 60% with diastolic dysfunction and periaortic stenosis with an opening of 1
+cubic cm. An adenosine sestamibi heart scan was done in March 2016, showing a small fixed apical defect, but no
+ischemia. Cardiac enzymes were negative. Dr. Y recommended a beta-blocker with an ACE inhibitor; therefore, the
+lisinopril was discontinued.
+Signature:
+http://some.open-emr.org/interface/patient file/report/custom report.php?p... 7/21/2017

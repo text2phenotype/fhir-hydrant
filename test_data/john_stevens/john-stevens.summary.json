@@ -1,0 +1,1608 @@
+{
+ "Allergy": [],
+ "DiseaseDisorder": [
+  {
+   "code": "87317003",
+   "cui": "C0162297",
+   "lstm_prob": 0.946,
+   "polarity": "positive",
+   "preferredText": "Respiratory arrest",
+   "range": [
+    933,
+    951
+   ],
+   "text": "Respiratory arrest",
+   "tui": "T046",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "13645005",
+   "cui": "C0024117",
+   "lstm_prob": 0.949,
+   "polarity": "positive",
+   "preferredText": "Chronic Obstructive Airway Disease",
+   "range": [
+    956,
+    993
+   ],
+   "text": "Chronic obstructive pulmonary disease",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "53741008",
+   "cui": "C1956346",
+   "lstm_prob": 0.993,
+   "polarity": "positive",
+   "preferredText": "Coronary Artery Disease",
+   "range": [
+    998,
+    1006
+   ],
+   "text": "Coronary",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "53741008",
+   "cui": "C1956346",
+   "lstm_prob": 0.997,
+   "polarity": "positive",
+   "preferredText": "Coronary Artery Disease",
+   "range": [
+    1007,
+    1021
+   ],
+   "text": "artery disease",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "161501007",
+   "cui": "C0455527",
+   "lstm_prob": 0.958,
+   "polarity": "positive",
+   "preferredText": "H/O: hypertension",
+   "range": [
+    1037,
+    1049
+   ],
+   "text": "hypertension",
+   "tui": "T033",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "397829000",
+   "cui": "C0018790",
+   "lstm_prob": 0.934,
+   "polarity": "positive",
+   "preferredText": "Cardiac Arrest",
+   "range": [
+    1099,
+    1105
+   ],
+   "text": "arrest",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "13645005",
+   "cui": "C0024117",
+   "lstm_prob": 0.934,
+   "polarity": "positive",
+   "preferredText": "Chronic Obstructive Airway Disease",
+   "range": [
+    1110,
+    1117
+   ],
+   "text": "Chronic",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "13645005",
+   "cui": "C0024117",
+   "lstm_prob": 0.977,
+   "polarity": "positive",
+   "preferredText": "Chronic Obstructive Airway Disease",
+   "range": [
+    1118,
+    1147
+   ],
+   "text": "obstructive pulmonary disease",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "attributes": {
+    "polarity": "positive"
+   },
+   "lstm_prob": 0.772,
+   "polarity": "positive",
+   "range": [
+    1152,
+    1176
+   ],
+   "text": "Congestive heart failure",
+   "umlsConcept": []
+  },
+  {
+   "code": "53741008",
+   "cui": "C1956346",
+   "lstm_prob": 0.96,
+   "polarity": "positive",
+   "preferredText": "Coronary Artery Disease",
+   "range": [
+    1192,
+    1215
+   ],
+   "text": "coronary artery disease",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "161501007",
+   "cui": "C0455527",
+   "lstm_prob": 0.875,
+   "polarity": "positive",
+   "preferredText": "H/O: hypertension",
+   "range": [
+    1231,
+    1243
+   ],
+   "text": "hypertension",
+   "tui": "T033",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "53741008",
+   "cui": "C1956346",
+   "lstm_prob": 0.983,
+   "polarity": "positive",
+   "preferredText": "Coronary Artery Disease",
+   "range": [
+    1494,
+    1517
+   ],
+   "text": "coronary artery disease",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "22298006",
+   "cui": "C0027051",
+   "lstm_prob": 0.784,
+   "polarity": "positive",
+   "preferredText": "Myocardial Infarction",
+   "range": [
+    1529,
+    1551
+   ],
+   "text": "myocardial infarctions",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "233604007",
+   "cui": "C0032285",
+   "lstm_prob": 0.625,
+   "polarity": "positive",
+   "preferredText": "Pneumonia",
+   "range": [
+    1630,
+    1639
+   ],
+   "text": "pneumonia",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "409622000",
+   "cui": "C1145670",
+   "lstm_prob": 0.852,
+   "polarity": "positive",
+   "preferredText": "Respiratory Failure",
+   "range": [
+    1644,
+    1663
+   ],
+   "text": "respiratory failure",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "84114007",
+   "cui": "C0018801",
+   "lstm_prob": 0.858,
+   "polarity": "positive",
+   "preferredText": "Heart failure",
+   "range": [
+    2994,
+    3007
+   ],
+   "text": "heart failure",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "53741008",
+   "cui": "C1956346",
+   "lstm_prob": 0.983,
+   "polarity": "positive",
+   "preferredText": "Coronary Artery Disease",
+   "range": [
+    5448,
+    5471
+   ],
+   "text": "coronary artery disease",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "22298006",
+   "cui": "C0027051",
+   "lstm_prob": 0.784,
+   "polarity": "positive",
+   "preferredText": "Myocardial Infarction",
+   "range": [
+    5483,
+    5505
+   ],
+   "text": "myocardial infarctions",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "233604007",
+   "cui": "C0032285",
+   "lstm_prob": 0.625,
+   "polarity": "positive",
+   "preferredText": "Pneumonia",
+   "range": [
+    5584,
+    5593
+   ],
+   "text": "pneumonia",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "409622000",
+   "cui": "C1145670",
+   "lstm_prob": 0.852,
+   "polarity": "positive",
+   "preferredText": "Respiratory Failure",
+   "range": [
+    5598,
+    5617
+   ],
+   "text": "respiratory failure",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  }
+ ],
+ "Lab": [
+  {
+   "code": "",
+   "cui": "C0201931",
+   "polarity": "positive",
+   "preferredText": "CARBON DIOXIDE MEASUREMENT, PARTIAL PRESSURE",
+   "range": [
+    3581,
+    3585
+   ],
+   "text": "pCO2",
+   "tui": "T059",
+   "vocab": "CPT"
+  },
+  {
+   "code": "272170001",
+   "cui": "C0023516",
+   "polarity": "positive",
+   "preferredText": "WHITE BLOOD CELL (CELL)",
+   "range": [
+    3707,
+    3718
+   ],
+   "text": "white count",
+   "tui": "T034",
+   "vocab": "SNOMEDCT_US"
+  }
+ ],
+ "Medication": [
+  {
+   "code": null,
+   "cui": null,
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": null,
+   "prob": {
+    "MED": 0.947
+   },
+   "range": [
+    2434,
+    2444
+   ],
+   "text": "antibiotic",
+   "tui": null,
+   "vocab": null
+  },
+  {
+   "code": "217992",
+   "cui": "C0721336",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Levaquin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.943
+   },
+   "range": [
+    2458,
+    2466
+   ],
+   "text": "Levaquin",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "217992",
+   "cui": "C0721336",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Levaquin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.943
+   },
+   "range": [
+    2458,
+    2466
+   ],
+   "text": "Levaquin",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": null,
+   "cui": null,
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": null,
+   "prob": {
+    "MED": 0.932
+   },
+   "range": [
+    2492,
+    2500
+   ],
+   "text": "diuretic",
+   "tui": null,
+   "vocab": null
+  },
+  {
+   "code": null,
+   "cui": null,
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": null,
+   "prob": {
+    "MED": 0.986
+   },
+   "range": [
+    2532,
+    2546
+   ],
+   "text": "bronchodilator",
+   "tui": null,
+   "vocab": null
+  },
+  {
+   "code": null,
+   "cui": null,
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": null,
+   "prob": {
+    "MED": 0.96
+   },
+   "range": [
+    2595,
+    2602
+   ],
+   "text": "steroid",
+   "tui": null,
+   "vocab": null
+  },
+  {
+   "code": "203856",
+   "cui": "C0701466",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Solu-Medrol",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.978
+   },
+   "range": [
+    2616,
+    2627
+   ],
+   "text": "Solu-Medrol",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "203856",
+   "cui": "C0701466",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Solu-Medrol",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.978
+   },
+   "range": [
+    2616,
+    2627
+   ],
+   "text": "Solu-Medrol",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "29046",
+   "cui": "C0065374",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Lisinopril",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.999
+   },
+   "range": [
+    3065,
+    3075
+   ],
+   "text": "Lisinopril",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "3407",
+   "cui": "C0012265",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [
+    "day",
+    3140,
+    3143
+   ],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Digoxin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.948
+   },
+   "range": [
+    3080,
+    3087
+   ],
+   "text": "Digoxin",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "3407",
+   "cui": "C0012265",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [
+    "day",
+    3140,
+    3143
+   ],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Digoxin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.948
+   },
+   "range": [
+    3080,
+    3087
+   ],
+   "text": "Digoxin",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "8640",
+   "cui": "C0032952",
+   "medFrequencyNumber": [
+    "2",
+    3939,
+    3944
+   ],
+   "medFrequencyUnit": [
+    "day",
+    3949,
+    3952
+   ],
+   "medStrengthNum": [
+    "20",
+    3933,
+    3935
+   ],
+   "medStrengthUnit": [
+    "mg",
+    3936,
+    3938
+   ],
+   "polarity": "positive",
+   "preferredText": "Prednisone",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.987
+   },
+   "range": [
+    3922,
+    3932
+   ],
+   "text": "Prednisone",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "8640",
+   "cui": "C0032952",
+   "medFrequencyNumber": [
+    "2",
+    3939,
+    3944
+   ],
+   "medFrequencyUnit": [
+    "day",
+    3949,
+    3952
+   ],
+   "medStrengthNum": [
+    "20",
+    3933,
+    3935
+   ],
+   "medStrengthUnit": [
+    "mg",
+    3936,
+    3938
+   ],
+   "polarity": "positive",
+   "preferredText": "Prednisone",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.987
+   },
+   "range": [
+    3922,
+    3932
+   ],
+   "text": "Prednisone",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "8640",
+   "cui": "C0032952",
+   "medFrequencyNumber": [
+    "2",
+    3939,
+    3944
+   ],
+   "medFrequencyUnit": [
+    "day",
+    3949,
+    3952
+   ],
+   "medStrengthNum": [
+    "20",
+    3933,
+    3935
+   ],
+   "medStrengthUnit": [
+    "mg",
+    3936,
+    3938
+   ],
+   "polarity": "positive",
+   "preferredText": "Prednisone",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.987
+   },
+   "range": [
+    3922,
+    3932
+   ],
+   "text": "Prednisone",
+   "tui": "T125",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "203388",
+   "cui": "C0700825",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Theo-24",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    3954,
+    3961
+   ],
+   "text": "Theo-24",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "203388",
+   "cui": "C0700825",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Theo-24",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    3954,
+    3961
+   ],
+   "text": "Theo-24",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "4603",
+   "cui": "C0016860",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [
+    "per day",
+    4011,
+    4018
+   ],
+   "medStrengthNum": [
+    "40",
+    3989,
+    3991
+   ],
+   "medStrengthUnit": [
+    "mg",
+    3992,
+    3994
+   ],
+   "polarity": "positive",
+   "preferredText": "Furosemide",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    3978,
+    3988
+   ],
+   "text": "Furosemide",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "4603",
+   "cui": "C0016860",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [
+    "per day",
+    4011,
+    4018
+   ],
+   "medStrengthNum": [
+    "40",
+    3989,
+    3991
+   ],
+   "medStrengthUnit": [
+    "mg",
+    3992,
+    3994
+   ],
+   "polarity": "positive",
+   "preferredText": "Furosemide",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    3978,
+    3988
+   ],
+   "text": "Furosemide",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "167",
+   "cui": "C0000981",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [
+    "day",
+    4054,
+    4057
+   ],
+   "medStrengthNum": [
+    "250",
+    4034,
+    4037
+   ],
+   "medStrengthUnit": [
+    "mg",
+    4038,
+    4040
+   ],
+   "polarity": "positive",
+   "preferredText": "Acetazolamide",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4020,
+    4033
+   ],
+   "text": "Acetazolamide",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "167",
+   "cui": "C0000981",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [
+    "day",
+    4054,
+    4057
+   ],
+   "medStrengthNum": [
+    "250",
+    4034,
+    4037
+   ],
+   "medStrengthUnit": [
+    "mg",
+    4038,
+    4040
+   ],
+   "polarity": "positive",
+   "preferredText": "Acetazolamide",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4020,
+    4033
+   ],
+   "text": "Acetazolamide",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "29046",
+   "cui": "C0065374",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [
+    "20",
+    4070,
+    4072
+   ],
+   "medStrengthUnit": [
+    "mg",
+    4073,
+    4075
+   ],
+   "polarity": "positive",
+   "preferredText": "Lisinopril",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4059,
+    4069
+   ],
+   "text": "Lisinopril",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "3407",
+   "cui": "C0012265",
+   "medFrequencyNumber": [
+    "2",
+    4112,
+    4113
+   ],
+   "medFrequencyUnit": [
+    "q.d",
+    4127,
+    4130
+   ],
+   "medStrengthNum": [
+    "0.125",
+    4109,
+    4114
+   ],
+   "medStrengthUnit": [
+    "mg",
+    4115,
+    4117
+   ],
+   "polarity": "positive",
+   "preferredText": "Digoxin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4101,
+    4108
+   ],
+   "text": "Digoxin",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "3407",
+   "cui": "C0012265",
+   "medFrequencyNumber": [
+    "2",
+    4112,
+    4113
+   ],
+   "medFrequencyUnit": [
+    "q.d",
+    4127,
+    4130
+   ],
+   "medStrengthNum": [
+    "0.125",
+    4109,
+    4114
+   ],
+   "medStrengthUnit": [
+    "mg",
+    4115,
+    4117
+   ],
+   "polarity": "positive",
+   "preferredText": "Digoxin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4101,
+    4108
+   ],
+   "text": "Digoxin",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "4917",
+   "cui": "C0017887",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Nitroglycerin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.999
+   },
+   "range": [
+    4133,
+    4146
+   ],
+   "text": "nitroglycerin",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "4917",
+   "cui": "C0017887",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Nitroglycerin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.999
+   },
+   "range": [
+    4133,
+    4146
+   ],
+   "text": "nitroglycerin",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "93017",
+   "cui": "C0306511",
+   "medFrequencyNumber": [
+    "2.0"
+   ],
+   "medFrequencyUnit": [
+    "day"
+   ],
+   "medStrengthNum": [
+    "60",
+    4172,
+    4174
+   ],
+   "medStrengthUnit": [
+    "mEq",
+    4175,
+    4178
+   ],
+   "polarity": "positive",
+   "preferredText": "K-Dur",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4166,
+    4171
+   ],
+   "text": "K-Dur",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "93017",
+   "cui": "C0306511",
+   "medFrequencyNumber": [
+    "2.0"
+   ],
+   "medFrequencyUnit": [
+    "day"
+   ],
+   "medStrengthNum": [
+    "60",
+    4172,
+    4174
+   ],
+   "medStrengthUnit": [
+    "mEq",
+    4175,
+    4178
+   ],
+   "polarity": "positive",
+   "preferredText": "K-Dur",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4166,
+    4171
+   ],
+   "text": "K-Dur",
+   "tui": "T197",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "8887",
+   "cui": "C0033744",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Ventolin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.988
+   },
+   "range": [
+    4212,
+    4220
+   ],
+   "text": "Ventolin",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "8887",
+   "cui": "C0033744",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Ventolin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.988
+   },
+   "range": [
+    4212,
+    4220
+   ],
+   "text": "Ventolin",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "202878",
+   "cui": "C0699690",
+   "medFrequencyNumber": [
+    "2",
+    4281,
+    4286
+   ],
+   "medFrequencyUnit": [
+    "day",
+    4291,
+    4294
+   ],
+   "medStrengthNum": [
+    "four",
+    4270,
+    4274
+   ],
+   "medStrengthUnit": [
+    "puffs",
+    4275,
+    4280
+   ],
+   "polarity": "positive",
+   "preferredText": "Azmacort",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4261,
+    4269
+   ],
+   "text": "Azmacort",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "202878",
+   "cui": "C0699690",
+   "medFrequencyNumber": [
+    "2",
+    4281,
+    4286
+   ],
+   "medFrequencyUnit": [
+    "day",
+    4291,
+    4294
+   ],
+   "medStrengthNum": [
+    "four",
+    4270,
+    4274
+   ],
+   "medStrengthUnit": [
+    "puffs",
+    4275,
+    4280
+   ],
+   "polarity": "positive",
+   "preferredText": "Azmacort",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4261,
+    4269
+   ],
+   "text": "Azmacort",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "4603",
+   "cui": "C0016860",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [
+    "day",
+    4713,
+    4716
+   ],
+   "medStrengthNum": [
+    "40",
+    4687,
+    4689
+   ],
+   "medStrengthUnit": [
+    "mg",
+    4690,
+    4692
+   ],
+   "polarity": "positive",
+   "preferredText": "Furosemide",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4676,
+    4686
+   ],
+   "text": "Furosemide",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "4603",
+   "cui": "C0016860",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [
+    "day",
+    4713,
+    4716
+   ],
+   "medStrengthNum": [
+    "40",
+    4687,
+    4689
+   ],
+   "medStrengthUnit": [
+    "mg",
+    4690,
+    4692
+   ],
+   "polarity": "positive",
+   "preferredText": "Furosemide",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4676,
+    4686
+   ],
+   "text": "Furosemide",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "167",
+   "cui": "C0000981",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [
+    "day",
+    4752,
+    4755
+   ],
+   "medStrengthNum": [
+    "250",
+    4732,
+    4735
+   ],
+   "medStrengthUnit": [
+    "mg",
+    4736,
+    4738
+   ],
+   "polarity": "positive",
+   "preferredText": "Acetazolamide",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4718,
+    4731
+   ],
+   "text": "Acetazolamide",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "167",
+   "cui": "C0000981",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [
+    "day",
+    4752,
+    4755
+   ],
+   "medStrengthNum": [
+    "250",
+    4732,
+    4735
+   ],
+   "medStrengthUnit": [
+    "mg",
+    4736,
+    4738
+   ],
+   "polarity": "positive",
+   "preferredText": "Acetazolamide",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4718,
+    4731
+   ],
+   "text": "Acetazolamide",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "29046",
+   "cui": "C0065374",
+   "medFrequencyNumber": [
+    "2",
+    4784,
+    4789
+   ],
+   "medFrequencyUnit": [
+    "day",
+    4794,
+    4797
+   ],
+   "medStrengthNum": [
+    "20",
+    4768,
+    4770
+   ],
+   "medStrengthUnit": [
+    "mg",
+    4771,
+    4773
+   ],
+   "polarity": "positive",
+   "preferredText": "Lisinopril",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4757,
+    4767
+   ],
+   "text": "Lisinopril",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "3407",
+   "cui": "C0012265",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [
+    "day"
+   ],
+   "medStrengthNum": [
+    "0.125",
+    4807,
+    4812
+   ],
+   "medStrengthUnit": [
+    "mg",
+    4813,
+    4815
+   ],
+   "polarity": "positive",
+   "preferredText": "Digoxin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4799,
+    4806
+   ],
+   "text": "Digoxin",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "3407",
+   "cui": "C0012265",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [
+    "day"
+   ],
+   "medStrengthNum": [
+    "0.125",
+    4807,
+    4812
+   ],
+   "medStrengthUnit": [
+    "mg",
+    4813,
+    4815
+   ],
+   "polarity": "positive",
+   "preferredText": "Digoxin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4799,
+    4806
+   ],
+   "text": "Digoxin",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "4917",
+   "cui": "C0017887",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Nitroglycerin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4831,
+    4844
+   ],
+   "text": "nitroglycerin",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "4917",
+   "cui": "C0017887",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Nitroglycerin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4831,
+    4844
+   ],
+   "text": "nitroglycerin",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "93017",
+   "cui": "C0306511",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [
+    "60",
+    4870,
+    4872
+   ],
+   "medStrengthUnit": [
+    "mEq",
+    4873,
+    4876
+   ],
+   "polarity": "positive",
+   "preferredText": "K-Dur",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4864,
+    4869
+   ],
+   "text": "K-Dur",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "93017",
+   "cui": "C0306511",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [
+    "60",
+    4870,
+    4872
+   ],
+   "medStrengthUnit": [
+    "mEq",
+    4873,
+    4876
+   ],
+   "polarity": "positive",
+   "preferredText": "K-Dur",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4864,
+    4869
+   ],
+   "text": "K-Dur",
+   "tui": "T197",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "8887",
+   "cui": "C0033744",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Ventolin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.984
+   },
+   "range": [
+    4889,
+    4897
+   ],
+   "text": "Ventolin",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "8887",
+   "cui": "C0033744",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Ventolin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.984
+   },
+   "range": [
+    4889,
+    4897
+   ],
+   "text": "Ventolin",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "202878",
+   "cui": "C0699690",
+   "medFrequencyNumber": [
+    "2",
+    4954,
+    4959
+   ],
+   "medFrequencyUnit": [
+    "day",
+    4964,
+    4967
+   ],
+   "medStrengthNum": [
+    "four",
+    4943,
+    4947
+   ],
+   "medStrengthUnit": [
+    "puffs",
+    4948,
+    4953
+   ],
+   "polarity": "positive",
+   "preferredText": "Azmacort",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4934,
+    4942
+   ],
+   "text": "Azmacort",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "202878",
+   "cui": "C0699690",
+   "medFrequencyNumber": [
+    "2",
+    4954,
+    4959
+   ],
+   "medFrequencyUnit": [
+    "day",
+    4964,
+    4967
+   ],
+   "medStrengthNum": [
+    "four",
+    4943,
+    4947
+   ],
+   "medStrengthUnit": [
+    "puffs",
+    4948,
+    4953
+   ],
+   "polarity": "positive",
+   "preferredText": "Azmacort",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    4934,
+    4942
+   ],
+   "text": "Azmacort",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  }
+ ]
+}

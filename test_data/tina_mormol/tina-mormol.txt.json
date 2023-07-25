@@ -1,0 +1,129 @@
+{
+    "dob": [
+        [
+            "12/5/1963",
+            1
+        ]
+    ],
+    "dr_age": [],
+    "dr_city": [],
+    "dr_email": [],
+    "dr_fax": [],
+    "dr_first": [
+        [
+            "Tina",
+            0.908
+        ],
+        [
+            "Y.",
+            0.427
+        ],
+        [
+            "Administrator",
+            0.651
+        ],
+        [
+            "Administrator",
+            0.442
+        ],
+        [
+            "Y.",
+            0.427
+        ]
+    ],
+    "dr_id": [],
+    "dr_initials": [],
+    "dr_last": [
+        [
+            "Marmol",
+            0.976
+        ],
+        [
+            "Marmol",
+            0.469
+        ],
+        [
+            "X",
+            0.302
+        ],
+        [
+            "X",
+            0.409
+        ]
+    ],
+    "dr_middle": [],
+    "dr_org": [],
+    "dr_phone": [],
+    "dr_state": [],
+    "dr_street": [],
+    "dr_zip": [],
+    "facility_name": [
+        [
+            "OpenEMR",
+            0.99
+        ],
+        [
+            "Clinic",
+            0.593
+        ],
+        [
+            "OpenEMR",
+            0.963
+        ],
+        [
+            "Clinic",
+            0.838
+        ],
+        [
+            "OpenEMR",
+            0.782
+        ]
+    ],
+    "insurance": [],
+    "mrn": [],
+    "pat_age": [],
+    "pat_city": [],
+    "pat_email": [],
+    "pat_first": [
+        [
+            "Tina",
+            0.981
+        ]
+    ],
+    "pat_initials": [],
+    "pat_last": [
+        [
+            "Marmol",
+            0.888
+        ],
+        [
+            "Tina",
+            0.488
+        ]
+    ],
+    "pat_middle": [
+        [
+            "R.",
+            0.503
+        ]
+    ],
+    "pat_phone": [
+        [
+            "000-000-0000",
+            0.986
+        ],
+        [
+            "000-000-0000",
+            0.899
+        ],
+        [
+            "553-82-1234",
+            0.787
+        ]
+    ],
+    "pat_state": [],
+    "pat_street": [],
+    "pat_zip": [],
+    "sex": [],
+    "ssn": []
+}

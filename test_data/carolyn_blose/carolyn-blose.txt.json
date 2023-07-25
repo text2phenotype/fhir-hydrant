@@ -1,0 +1,127 @@
+{
+    "dob": [
+        [
+            "7/29/1932",
+            1
+        ]
+    ],
+    "dr_age": [],
+    "dr_city": [],
+    "dr_email": [],
+    "dr_fax": [],
+    "dr_first": [
+        [
+            "Carolyn",
+            0.993
+        ]
+    ],
+    "dr_id": [
+        [
+            "SNOMED-CT:266919005",
+            0.963
+        ],
+        [
+            ":1111111111111111111111111110",
+            0.98
+        ]
+    ],
+    "dr_initials": [],
+    "dr_last": [
+        [
+            "Blose",
+            0.989
+        ],
+        [
+            "Blose",
+            0.646
+        ]
+    ],
+    "dr_middle": [],
+    "dr_org": [],
+    "dr_phone": [],
+    "dr_state": [],
+    "dr_street": [],
+    "dr_zip": [],
+    "facility_name": [
+        [
+            "OpenEMR",
+            0.989
+        ],
+        [
+            "Clinic",
+            0.544
+        ],
+        [
+            "OpenEMR",
+            0.953
+        ],
+        [
+            "Clinic",
+            0.694
+        ],
+        [
+            "OpenEMR",
+            0.587
+        ]
+    ],
+    "insurance": [],
+    "mrn": [],
+    "pat_age": [
+        [
+            "84-year-old",
+            0.999
+        ],
+        [
+            "86",
+            0.999
+        ],
+        [
+            "84-year-old",
+            0.997
+        ]
+    ],
+    "pat_city": [],
+    "pat_email": [],
+    "pat_first": [
+        [
+            "Carolyn",
+            0.996
+        ],
+        [
+            "Carolyn",
+            0.718
+        ]
+    ],
+    "pat_initials": [],
+    "pat_last": [
+        [
+            "Blose",
+            0.959
+        ]
+    ],
+    "pat_middle": [
+        [
+            "V.",
+            0.528
+        ]
+    ],
+    "pat_phone": [
+        [
+            "000-000-0000",
+            0.986
+        ],
+        [
+            "000-000-0000",
+            0.924
+        ],
+        [
+            "530-79-5301",
+            0.682
+        ]
+    ],
+    "pat_state": [],
+    "pat_street": [],
+    "pat_zip": [],
+    "sex": [],
+    "ssn": []
+}

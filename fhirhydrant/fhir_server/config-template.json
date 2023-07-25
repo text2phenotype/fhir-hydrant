@@ -1,0 +1,10 @@
+{
+  "MDL_FHIR_TENANT_ID": "",
+  "MDL_FHIR_CLIENT_ID": "",
+  "MDL_FHIR_CLIENT_SECRET": "",
+  "MDL_FHIR_AZURE_USERNAME": "fhir_user@yoursite.onmicrosoft.com",
+  "MDL_FHIR_PASSWORD": "",
+  "MDL_FHIR_API_URL": "https://text2phenotype.azurehealthcareapis.com/",
+  "MDL_FHIR_FLASK_ENV": "development",
+  "MDL_COMN_BIOMED_API_BASE": "https://biomed-dev-ci.mdl-dev.in"
+}

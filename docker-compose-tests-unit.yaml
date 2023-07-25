@@ -1,0 +1,16 @@
+version: '3'
+
+# Note: replace all instances of 'example' with the name of your project / git repository.
+
+services:
+  example:
+    build: '.'
+    image: "text2phenotype/example:stage"
+    command: bin/docker-test-unit.sh
+    networks:
+      example:
+        aliases:
+          - example
+
+networks:
+  example:

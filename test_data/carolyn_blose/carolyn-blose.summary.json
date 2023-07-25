@@ -1,0 +1,490 @@
+{
+ "Allergy": [
+  {
+   "code": "131725",
+   "cui": "C0487782",
+   "polarity": "positive",
+   "preferredText": "Ambien",
+   "range": [
+    2126,
+    2132
+   ],
+   "text": "AMBIEN",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "203494",
+   "cui": "C0700940",
+   "polarity": "positive",
+   "preferredText": "Cardizem",
+   "range": [
+    2134,
+    2142
+   ],
+   "text": "CARDIZEM",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "5640",
+   "cui": "C0020740",
+   "polarity": "positive",
+   "preferredText": "Ibuprofen",
+   "range": [
+    2148,
+    2157
+   ],
+   "text": "IBUPROFEN",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "131725",
+   "cui": "C0487782",
+   "polarity": "negative",
+   "preferredText": "Ambien",
+   "range": [
+    4886,
+    4892
+   ],
+   "text": "AMBIEN",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "203494",
+   "cui": "C0700940",
+   "polarity": "negative",
+   "preferredText": "Cardizem",
+   "range": [
+    4894,
+    4902
+   ],
+   "text": "CARDIZEM",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "5640",
+   "cui": "C0020740",
+   "polarity": "negative",
+   "preferredText": "Ibuprofen",
+   "range": [
+    4904,
+    4913
+   ],
+   "text": "IBUPROFEN",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  }
+ ],
+ "DiseaseDisorder": [
+  {
+   "code": "84114007",
+   "cui": "C0018801",
+   "lstm_prob": 0.511,
+   "polarity": "positive",
+   "preferredText": "Heart failure",
+   "range": [
+    902,
+    909
+   ],
+   "text": "failure",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "18126004",
+   "cui": "C0012813",
+   "lstm_prob": 0.81,
+   "polarity": "positive",
+   "preferredText": "Diverticulitis",
+   "range": [
+    931,
+    968
+   ],
+   "text": "Diverticulitis Valvular insufficiency",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "84114007",
+   "cui": "C0018801",
+   "lstm_prob": 0.66,
+   "polarity": "positive",
+   "preferredText": "Heart failure",
+   "range": [
+    980,
+    993
+   ],
+   "text": "Heart Failure",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "attributes": {
+    "polarity": "positive"
+   },
+   "lstm_prob": 0.714,
+   "polarity": "positive",
+   "range": [
+    1842,
+    1848
+   ],
+   "text": "artery",
+   "umlsConcept": []
+  },
+  {
+   "attributes": {
+    "polarity": "positive"
+   },
+   "lstm_prob": 0.516,
+   "polarity": "positive",
+   "range": [
+    1849,
+    1856
+   ],
+   "text": "disease",
+   "umlsConcept": []
+  },
+  {
+   "code": "18126004",
+   "cui": "C0012813",
+   "lstm_prob": 0.591,
+   "polarity": "positive",
+   "preferredText": "Diverticulitis",
+   "range": [
+    2310,
+    2324
+   ],
+   "text": "diverticulitis",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "64226004",
+   "cui": "C0009319",
+   "lstm_prob": 0.501,
+   "polarity": "positive",
+   "preferredText": "Colitis",
+   "range": [
+    2326,
+    2333
+   ],
+   "text": "colitis",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "attributes": {
+    "polarity": "positive"
+   },
+   "lstm_prob": 0.524,
+   "polarity": "positive",
+   "range": [
+    2418,
+    2424
+   ],
+   "text": "artery",
+   "umlsConcept": []
+  },
+  {
+   "code": "446813000",
+   "cui": "C0238705",
+   "lstm_prob": 0.517,
+   "polarity": "positive",
+   "preferredText": "Left atrial hypertrophy",
+   "range": [
+    3950,
+    3973
+   ],
+   "text": "left atrial enlargement",
+   "tui": "T190",
+   "vocab": "SNOMEDCT_US"
+  }
+ ],
+ "Lab": [
+  {
+   "code": "LP14355-9",
+   "cui": "C0010294",
+   "polarity": "positive",
+   "preferredText": "CREATININE",
+   "range": [
+    3653,
+    3663
+   ],
+   "text": "creatinine",
+   "tui": "T034",
+   "vocab": "LNC"
+  }
+ ],
+ "Medication": [
+  {
+   "code": "202991",
+   "cui": "C0699992",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Lasix",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    1993,
+    1998
+   ],
+   "text": "Lasix",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "202991",
+   "cui": "C0699992",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Lasix",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    1993,
+    1998
+   ],
+   "text": "Lasix",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": null,
+   "cui": null,
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": null,
+   "prob": {
+    "MED": 0.936
+   },
+   "range": [
+    2010,
+    2025
+   ],
+   "text": "supplementation",
+   "tui": null,
+   "vocab": null
+  },
+  {
+   "code": "217992",
+   "cui": "C0721336",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Levaquin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    2027,
+    2035
+   ],
+   "text": "Levaquin",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "217992",
+   "cui": "C0721336",
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": "Levaquin",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    2027,
+    2035
+   ],
+   "text": "Levaquin",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+
+
+
+
+
+  {
+   "code": "5470",
+   "cui": "C0020223",
+   "medFrequencyNumber": [
+    "2.0"
+   ],
+   "medFrequencyUnit": [
+    "day"
+   ],
+   "medStrengthNum": [
+    "10",
+    2049,
+    2051
+   ],
+   "medStrengthUnit": [
+    "mg",
+    2052,
+    2054
+   ],
+   "polarity": "positive",
+   "preferredText": "Hydralazine",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    2037,
+    2048
+   ],
+   "text": "hydralazine",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+
+
+
+
+
+  {
+   "code": "5470",
+   "cui": "C0020223",
+   "medFrequencyNumber": [
+    "2.0"
+   ],
+   "medFrequencyUnit": [
+    "day"
+   ],
+   "medStrengthNum": [
+    "10",
+    2049,
+    2051
+   ],
+   "medStrengthUnit": [
+    "mg",
+    2052,
+    2054
+   ],
+   "polarity": "positive",
+   "preferredText": "Hydralazine",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 1.0
+   },
+   "range": [
+    2037,
+    2048
+   ],
+   "text": "hydralazine",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": null,
+   "cui": null,
+   "medFrequencyNumber": [],
+   "medFrequencyUnit": [],
+   "medStrengthNum": [],
+   "medStrengthUnit": [],
+   "polarity": "positive",
+   "preferredText": null,
+   "prob": {
+    "MED": 0.924
+   },
+   "range": [
+    4677,
+    4686
+   ],
+   "text": "diuretics",
+   "tui": null,
+   "vocab": null
+  },
+  {
+   "code": "5470",
+   "cui": "C0020223",
+   "medFrequencyNumber": [
+    "2.0"
+   ],
+   "medFrequencyUnit": [
+    "day"
+   ],
+   "medStrengthNum": [
+    "10",
+    4984,
+    4986
+   ],
+   "medStrengthUnit": [
+    "mg",
+    4987,
+    4989
+   ],
+   "polarity": "positive",
+   "preferredText": "Hydralazine",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.989
+   },
+   "range": [
+    4972,
+    4983
+   ],
+   "text": "hydralazine",
+   "tui": "T121",
+   "vocab": "RXNORM"
+  },
+  {
+   "code": "5470",
+   "cui": "C0020223",
+   "medFrequencyNumber": [
+    "2.0"
+   ],
+   "medFrequencyUnit": [
+    "day"
+   ],
+   "medStrengthNum": [
+    "10",
+    4984,
+    4986
+   ],
+   "medStrengthUnit": [
+    "mg",
+    4987,
+    4989
+   ],
+   "polarity": "positive",
+   "preferredText": "Hydralazine",
+   "prob": {
+    "lstm_pred": "MED",
+    "prob": 0.989
+   },
+   "range": [
+    4972,
+    4983
+   ],
+   "text": "hydralazine",
+   "tui": "T109",
+   "vocab": "RXNORM"
+  }
+ ]
+}

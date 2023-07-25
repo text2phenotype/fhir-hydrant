@@ -1,0 +1,130 @@
+{
+    "dob": [
+        [
+            "7/18/1940",
+            1
+        ]
+    ],
+    "dr_age": [],
+    "dr_city": [],
+    "dr_email": [],
+    "dr_fax": [],
+    "dr_first": [
+        [
+            "David",
+            0.961
+        ],
+        [
+            "Administrator",
+            0.374
+        ]
+    ],
+    "dr_id": [],
+    "dr_initials": [],
+    "dr_last": [
+        [
+            "Vaughan",
+            0.836
+        ]
+    ],
+    "dr_middle": [],
+    "dr_org": [],
+    "dr_phone": [],
+    "dr_state": [],
+    "dr_street": [],
+    "dr_zip": [],
+    "facility_name": [
+        [
+            "OpenEMR",
+            0.998
+        ],
+        [
+            "Clinic",
+            0.768
+        ],
+        [
+            "OpenEMR",
+            0.978
+        ],
+        [
+            "Clinic",
+            0.679
+        ],
+        [
+            "Hospital",
+            0.908
+        ],
+        [
+            "Promise",
+            0.597
+        ],
+        [
+            "Promise",
+            0.838
+        ],
+        [
+            "Promise",
+            0.91
+        ],
+        [
+            "OpenEMR",
+            0.723
+        ]
+    ],
+    "insurance": [],
+    "mrn": [],
+    "pat_age": [
+        [
+            "77-year-old",
+            0.994
+        ]
+    ],
+    "pat_city": [],
+    "pat_email": [],
+    "pat_first": [
+        [
+            "David",
+            0.991
+        ],
+        [
+            "Vaughan",
+            0.756
+        ]
+    ],
+    "pat_initials": [],
+    "pat_last": [
+        [
+            "Vaughan",
+            0.964
+        ],
+        [
+            "David",
+            0.541
+        ]
+    ],
+    "pat_middle": [
+        [
+            "K.",
+            0.739
+        ]
+    ],
+    "pat_phone": [
+        [
+            "000-000-0000",
+            0.972
+        ],
+        [
+            "000-000-0000",
+            0.921
+        ],
+        [
+            "601-60-0606",
+            0.699
+        ]
+    ],
+    "pat_state": [],
+    "pat_street": [],
+    "pat_zip": [],
+    "sex": [],
+    "ssn": []
+}

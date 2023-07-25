@@ -1,0 +1,130 @@
+{
+    "dob": [
+        [
+            "3/19/1968",
+            1
+        ]
+    ],
+    "dr_age": [],
+    "dr_city": [],
+    "dr_email": [],
+    "dr_fax": [],
+    "dr_first": [
+        [
+            "John",
+            0.967
+        ],
+        [
+            "X",
+            0.395
+        ]
+    ],
+    "dr_id": [
+        [
+            "CT:8517006",
+            0.619
+        ]
+    ],
+    "dr_initials": [],
+    "dr_last": [
+        [
+            "Stevens",
+            0.929
+        ]
+    ],
+    "dr_middle": [],
+    "dr_org": [],
+    "dr_phone": [],
+    "dr_state": [],
+    "dr_street": [],
+    "dr_zip": [],
+    "facility_name": [
+        [
+            "OpenEMR",
+            0.99
+        ],
+        [
+            "Clinic",
+            0.561
+        ],
+        [
+            "OpenEMR",
+            0.975
+        ],
+        [
+            "Clinic",
+            0.828
+        ],
+        [
+            "SNOMED-",
+            0.699
+        ],
+        [
+            "Special",
+            0.937
+        ],
+        [
+            "Administrator",
+            0.316
+        ],
+        [
+            "OpenEMR",
+            0.787
+        ]
+    ],
+    "insurance": [],
+    "mrn": [],
+    "pat_age": [
+        [
+            "49-year-old",
+            1
+        ],
+        [
+            "49-year-old",
+            1
+        ]
+    ],
+    "pat_city": [],
+    "pat_email": [],
+    "pat_first": [
+        [
+            "John",
+            0.995
+        ],
+        [
+            "John",
+            0.876
+        ]
+    ],
+    "pat_initials": [],
+    "pat_last": [
+        [
+            "Stevens",
+            0.966
+        ],
+        [
+            "Stevens",
+            0.696
+        ]
+    ],
+    "pat_middle": [],
+    "pat_phone": [
+        [
+            "000-000-0000",
+            0.987
+        ],
+        [
+            "000-000-0000",
+            0.929
+        ],
+        [
+            "235-21-0677",
+            0.543
+        ]
+    ],
+    "pat_state": [],
+    "pat_street": [],
+    "pat_zip": [],
+    "sex": [],
+    "ssn": []
+}

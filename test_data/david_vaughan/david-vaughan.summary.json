@@ -1,0 +1,104 @@
+{
+ "Allergy": [],
+ "DiseaseDisorder": [
+  {
+   "code": "433146000",
+   "cui": "C2316810",
+   "lstm_prob": 0.943,
+   "polarity": "positive",
+   "preferredText": "Chronic kidney disease stage 5",
+   "range": [
+    593,
+    616
+   ],
+   "text": "End-stage renal disease",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "50448004",
+   "cui": "C0080179",
+   "lstm_prob": 0.958,
+   "polarity": "positive",
+   "preferredText": "Spinal Fractures",
+   "range": [
+    652,
+    670
+   ],
+   "text": "vertebral fracture",
+   "tui": "T037",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "2304001",
+   "cui": "C0012624",
+   "lstm_prob": 0.921,
+   "polarity": "positive",
+   "preferredText": "Discitis",
+   "range": [
+    675,
+    683
+   ],
+   "text": "Diskitis",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "302215000",
+   "cui": "C0040034",
+   "lstm_prob": 0.92,
+   "polarity": "positive",
+   "preferredText": "Thrombocytopenia",
+   "range": [
+    688,
+    704
+   ],
+   "text": "Thrombocytopenia",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "attributes": {
+    "polarity": "positive"
+   },
+   "lstm_prob": 0.692,
+   "polarity": "positive",
+   "range": [
+    709,
+    733
+   ],
+   "text": "Congestive heart failure",
+   "umlsConcept": []
+  },
+  {
+   "code": "73211009",
+   "cui": "C0011849",
+   "lstm_prob": 0.971,
+   "polarity": "positive",
+   "preferredText": "Diabetes Mellitus",
+   "range": [
+    782,
+    790
+   ],
+   "text": "Diabetes",
+   "tui": "T047",
+   "vocab": "SNOMEDCT_US"
+  },
+  {
+   "code": "275538002",
+   "cui": "C0559154",
+   "lstm_prob": 0.684,
+   "polarity": "positive",
+   "preferredText": "H/O: anemia",
+   "range": [
+    841,
+    847
+   ],
+   "text": "anemia",
+   "tui": "T033",
+   "vocab": "SNOMEDCT_US"
+  }
+ ],
+ "Lab": [],
+ "Medication": []
+}

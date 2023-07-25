@@ -1,0 +1,63 @@
+Page 1 of 2
+PATIENT:Vaughan, David - 07/18/1940 Generated on 2017-07-21 - OpenEMR Clinic 000-000-0000
+OpenEMR Clinic
+000-000-0000
+David Vaughan
+Generated on: 2017-07-21
+Patient Data:
+Who Name: Mr. David K. Vaughan External ID: 601-60-0606
+DOB: 1940-07-18
+Sex: Male
+History Data:
+Insurance Data:
+Primary Insurance Data:
+Subscriber Date of Birth:
+0000-00-00
+Secondary Insurance Data:
+Subscriber Date of Birth:
+0000-00-00
+Tertiary Insurance Data:
+Subscriber Date of Birth:
+0000-00-00
+Billing Information:
+Patient Immunization:
+Patient Notes:
+2017-07-20: Discharge Summary DISCHARGE DIAGNOSES: 1. End-stage renal disease, on hemodialysis. 2. History
+of T9 vertebral fracture. 3. Diskitis. 4. Thrombocytopenia. 5. Congestive heart failure with ejection fraction of
+approximately 30%. 6. Diabetes, type 2. 7. Protein malnourishment. 8. History of anemia. HISTORY AND HOSPITAL
+COURSE: The patient is a 77-year-old white male who presented to Hospital of Bossier on April 14, 2008 with fever
+and severe lower back pain and severe weakness. The patient was found to have lumbar Diskitis that requires extensive
+antibiotic therapy, which required hospitalization due to his dialysis. He also needed increase the frequency of his
+dialysis due to worsening renal function. Dialysis time was extended and frequency was increased to three times per
+week. He needed to begin active rehabilitation. The patient tolerated his medication well and he was going through
+rehab fairly well without any significant troubles. He did have some bouts of issues with constipation on and off
+throughout his hospitalization, but this seemed to come under control with more aggressive management. The patient
+had remained afebrile. He did also have a bout with some episodic confusion problems, which appeared to be more of a
+sundowner-type of a problem, but this too cleared with his stay here at Promise. On the day of discharge, on May 9,
+2008, the patient was in good spirits, was very clear and lucid. He denied any complaints of pain. He did have some
+trouble with sleep at night at times, but I think this was mainly tied into the fact that he sleeps a lot during the day. The
+patient has increased his appetite some and has been eating some. His vital signs remain stable. His blood pressure on
+discharge was 126/63, heart rate is 80, respiratory rate of 20 and temperature was 98.3. PPD was negative. An SMS
+http://some.open-emr.org/interface/patient_file/report/custom_report.php?p... 7/21/2017
+Page 2 of 2
+form was filled out in plan for his discharge and he was sent with medications that he had been receiving while here at
+Promise. The patient and his family understood our plan and agreed with it. He thanked us for the care that he received
+at Promise and thought that they did a fantastic job taking care of him. He did not have any acute questions as to where
+he was going and what the next step of his care would be, but we did discuss this at length prior to date of discharge.
+His understanding of the complexity of his disease treatments appears to be low. His niece will stay with him for the
+next 2 weeks to ensure his compliance with meds and diet.
+Patient Transactions:
+Patient Communication sent:
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+Recurrent Appointments:
+None
+.........................................................................................................................
+New Patient Encounter
+(2017-07-20) Provider: Administrator Administrator
+Facility: OpenEMR Clinic
+Reason: The patient is being discharged for continued hemodialysis and rehab.
+Vitals
+(2017-07-20)
+Blood Pressure: 126/63 Temperature: 98.30 F (36.84 C) Pulse: 80 per min Respiration: 20 per min
+Signature:
+http://some.open-emr.org/interface/patient file/report/custom report.php?p... 7/21/2017
